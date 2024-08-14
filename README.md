@@ -1,6 +1,8 @@
 # Tien-Dung_Data Analysis Portfolio
 Group Final Project in Data Analysis course
-[Project 1: Banking Transaction](https://github.com/Tiendung0101/Tien-Dung-Data-Analysis-Portfolio/blob/main/Transaction_Banking.ipynb)
+
+
+# [Project 1: Banking Transaction](https://github.com/Tiendung0101/Tien-Dung-Data-Analysis-Portfolio/blob/main/Transaction_Banking.ipynb)
 
 This is my final project I collaborate with a classmate to investigate the customers behavior through their banking transaction of an India bank. 
 
